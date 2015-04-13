@@ -34,9 +34,9 @@
   <packaging>pom</packaging>
   <name>Web Accessibility Initiative (WAI) sample for eXo platform</name>
   <scm>
-    <connection>scm:git:git://github.com/exo-addons/wai-sample.git</connection>
-    <developerConnection>scm:git:git@github.com:exo-addons/wai-sample.git</developerConnection>
-    <url>https://github.com/exo-addons/wai-sample</url>
+    <connection>scm:git:git://github.com/exoplatform/wai-sample.git</connection>
+    <developerConnection>scm:git:git@github.com:exoplatform/wai-sample.git</developerConnection>
+    <url>https://github.com/exoplatform/wai-sample</url>
     <tag>HEAD</tag>
   </scm>  
   <properties>
