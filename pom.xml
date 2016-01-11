@@ -30,14 +30,14 @@
   </parent>
   <groupId>org.exoplatform.addons.wai</groupId>
   <artifactId>wai-sample</artifactId>
-  <version>4.3.0</version>
+  <version>4.3.x-SNAPSHOT</version>
   <packaging>pom</packaging>
   <name>Web Accessibility Initiative (WAI) sample for eXo platform</name>
   <scm>
     <connection>scm:git:git://github.com/exoplatform/wai-sample.git</connection>
     <developerConnection>scm:git:git@github.com:exoplatform/wai-sample.git</developerConnection>
     <url>https://github.com/exoplatform/wai-sample</url>
-    <tag>4.3.0</tag>
+    <tag>HEAD</tag>
   </scm>
   <properties>
     <!-- **************************************** -->
